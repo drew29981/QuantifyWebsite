@@ -1,0 +1,45 @@
+.background {
+  background: hsla(60, 6.06%, 87.06%, 1);
+}
+.logo {
+  width: 20vh;
+  height: 20vh;
+  margin-left: 40px;
+  margin-top: 40px;
+}
+.body {
+  text-align: center;
+  align-items: center;
+  font-size: 24px;
+  font-variant: small-caps;
+}
+.list-of-apps {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 0;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.unreleased {
+  image-rendering: pixelated;
+  filter: blur(15px);
+}
+.released-sub {
+  font-style: normal;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  text-decoration: none;
+  font-size: 18px;
+}
+textarea {
+  resize: none;
+}
+body {
+  align-items: center;
+  font-size: 24px;
+  font-variant: small-caps;
+}
+.nav-bar {
+  text-align: center;
+}
